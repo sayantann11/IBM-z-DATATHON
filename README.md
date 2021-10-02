@@ -1,8 +1,7 @@
 # **IBM z DATATHON**
 
 ## Description of project
-
-Through this project we aim to analyse different weather conditions for farming various crops and make clusters of the crops that grow in similar weather conditions. 
+By doing this project we aim to analyse different weather conditions for farming various crops and make clusters of the crops that grow in similar weather conditions. 
 We aim to do multi class classification and prediction to figure out which crop can be grown with the given conditions and the clustering. This will help the farmers to produce better yield and varied range of various crops.
 
 ## flow chart of MODEL
@@ -15,7 +14,7 @@ Hello,
 Agriculture accounts to about 68% of the population in India. The technological advancements have led agriculture’s share in GDP increase to 19.9% in 2020-2021 after 17 years. Although machines have been an instrumental factor driving technological aspects of agriculture, recently, data and its analysis has proved that it can be exploited to produce best results. Thousands of farmers are losing their lives to debts because they are not able to produce as much as before. Uneven rainfall, chemical imbalance in the soil contributes mainly to the decrease in yield. Thus our problem statement was developed.
 
 ## Data set:
-We have gathered a dataset built by augmenting datasets of rainfall, climate and fertilizer data available from github. This will give us a better idea of the trends of crops considering different environmental and geographical factors.
+We have gathered a dataset built by augmenting datasets of rainfall, climate and fertilizer data available from github. we hope this gives us a better idea of the trends of crops considering different environmental and geographical factors.
 
  
 ## Solution:
@@ -49,14 +48,14 @@ The Jupyter Notebook contains:
 
 
 
-## Some Insights from the Jupyter Notebook
+## Some Insights from the Jupyter Notebook that we found useful!
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/64836894/134804195-0d430414-deb9-44c3-abe0-541ec1c15a52.png)
 ![Screenshot (33)](https://user-images.githubusercontent.com/64836894/134804196-caede5cf-f883-40b9-ae55-6c4abe4ed3a2.png)
 ![Screenshot (32)](https://user-images.githubusercontent.com/64836894/134804198-59f9bcf0-125c-4716-b139-ce3ad836502a.png)
 ![prediction ](https://user-images.githubusercontent.com/69135317/134804507-2e1637ea-d007-4fc2-836e-3ec0a6635126.png)
 
-## Video Explation:
+## Video Explation for the project:
 
 https://user-images.githubusercontent.com/64836894/134806280-9133cd2c-5aee-4b22-b59e-2182dfc2479d.mp4
 
