@@ -1,8 +1,7 @@
 # **IBM z DATATHON**
 
 ## Description of project
-
-Through this project we aim to analyse different weather conditions for farming various crops and make clusters of the crops that grow in similar weather conditions. 
+By doing this project we aim to analyse different weather conditions for farming various crops and make clusters of the crops that grow in similar weather conditions. 
 We aim to do multi class classification and prediction to figure out which crop can be grown with the given conditions and the clustering. This will help the farmers to produce better yield and varied range of various crops.
 
 ## flow chart of MODEL
@@ -15,7 +14,7 @@ Hello,
 Agriculture accounts to about 68% of the population in India. The technological advancements have led agriculture’s share in GDP increase to 19.9% in 2020-2021 after 17 years. Although machines have been an instrumental factor driving technological aspects of agriculture, recently, data and its analysis has proved that it can be exploited to produce best results. Thousands of farmers are losing their lives to debts because they are not able to produce as much as before. Uneven rainfall, chemical imbalance in the soil contributes mainly to the decrease in yield. Thus our problem statement was developed.
 
 ## Data set:
-We have gathered a dataset built by augmenting datasets of rainfall, climate and fertilizer data available from github. This will give us a better idea of the trends of crops considering different environmental and geographical factors.
+We have gathered a dataset built by augmenting datasets of rainfall, climate and fertilizer data available from github. we hope this gives us a better idea of the trends of crops considering different environmental and geographical factors.
 
  
 ## Solution:
