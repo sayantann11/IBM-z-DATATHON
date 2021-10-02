@@ -3,7 +3,7 @@
 ## Description of project
 
 Through this project we aim to analyse different weather conditions for farming various crops and make clusters of the crops that grow in similar weather conditions. 
-We aim to do multi class classification and prediction to figure out which crop can be grown with the given conditions and the clustering. This will help the farmers to produce better yield and varied range of crops.
+We aim to do multi class classification and prediction to figure out which crop can be grown with the given conditions and the clustering. This will help the farmers to produce better yield and varied range of various crops.
 
 ## flow chart of MODEL
 
